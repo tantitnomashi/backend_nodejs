@@ -1,0 +1,17 @@
+[
+      {
+        "id": "1",
+        "phone": "0705342851",
+        "name": "An",
+        "email": "an@gmail.com",
+        "password": "admin"
+      },
+      {
+        "id": "2",
+        "phone": "0734238851",
+        "name": "Tuan",
+        "email": "tanngusidan@gmail.com",
+        "password": "admin"
+      }
+     
+    ] 
